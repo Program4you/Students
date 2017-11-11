@@ -1,0 +1,10 @@
+Ivanov Ivan Ivanovich 2 2 4 3 5
+Petrov Oleg Andreevich 5 2 2 4 5
+Zvonareva Ekaterina Karpovna 3 4 2 2 3
+Petrenko Igor Petrovich 2 2 2 4 5
+Famusov Andrew Igorevich 2 4 4 4 4
+Kerch Ilya Pavlovich 3 4 2 4 4
+Andreev Fil Nikitovich 2 2 2 2 2
+Volodkin vlad Ivanovich 2 4 4 2 2
+Petrov Andrew Karpovich 2 5 3 5 5
+Petrov Andrew Andreevich 2 5 2 5 5
